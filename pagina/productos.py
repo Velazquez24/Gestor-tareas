@@ -1,1 +1,0 @@
-print ('Gestor de productos'.center(60,'-'))
